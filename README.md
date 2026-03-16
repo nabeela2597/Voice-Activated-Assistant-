@@ -8,20 +8,20 @@ This project is designed as a beginner-friendly learning exercise for students e
 
 **Key Features**
 
-Voice command recognition
+a) Voice command recognition
 
-Text-to-speech responses
+b) Text-to-speech responses
 
-Greeting and time-based responses
+c) Greeting and time-based responses
 
-Beginner-friendly Python implementation
+d) Beginner-friendly Python implementation
 
-Introduction to voice-based AI applications
+e) Introduction to voice-based AI applications
 
 **Technologies Used**
 
-Python
+a) Python
 
-SpeechRecognition
+b) SpeechRecognition
 
-pyttsx3
+c) pyttsx3
